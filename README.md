@@ -66,6 +66,7 @@ ollama pull mistral
 ## 🧪 Run the App
 
 ```bash
+ollama pull mistral
 streamlit run app.py
 ```
 
